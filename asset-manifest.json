@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hiddensearchreact/static/css/main.a16b1039.css",
+    "main.js": "/hiddensearchreact/static/js/main.6a171011.js",
+    "index.html": "/hiddensearchreact/index.html",
+    "main.a16b1039.css.map": "/hiddensearchreact/static/css/main.a16b1039.css.map",
+    "main.6a171011.js.map": "/hiddensearchreact/static/js/main.6a171011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a16b1039.css",
+    "static/js/main.6a171011.js"
+  ]
+}
